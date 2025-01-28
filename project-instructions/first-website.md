@@ -732,7 +732,7 @@ After completing this TODO, your `<nav>` section should look like this:
 4. **Open the `style.css` file** and add the following CSS rules:
    ```CSS
    body {
-       background: rgb(125, 198, 205);
+       background: rgb(138, 138, 138);
        color: rgb(45, 45, 45);
        padding: 10px;
        font-family: Arial, sans-serif;
@@ -745,7 +745,7 @@ After completing this TODO, your `<nav>` section should look like this:
    
    /* navigation menu */
    nav {
-       background: rgb(239, 80, 41);
+       background: rgb(255, 255, 255);
        margin: 0 auto;
        display: flex;
        padding: 10px;
@@ -778,7 +778,7 @@ After completing this TODO, your `<nav>` section should look like this:
    
    /* main container area beneath menu */
    main {
-       background: rgb(245, 238, 219);
+       background: rgb(233, 52, 52);
        display: flex;
        margin-top: 20px;
    }
